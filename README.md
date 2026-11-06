@@ -86,7 +86,7 @@ Concevoir **la première console de jeu 100 % africaine** : **conçue par des Af
 
 | Événement | Résultat | Lien |
 |---|---|---|
-| AI4Youth Lomé 2026 | Demi-finaliste | [Voir →](https://github.com/precieux2007/REPO-AI4YOUTH) |
+| AI4Youth Lomé 2026 | Finaliste | [Voir →](https://github.com/precieux2007/REPO-AI4YOUTH) |
 | Communalthon Cotonou 2026 | 🥉 3ᵉ place | [Voir →](https://github.com/precieux2007/REPO-COMMUNALTHON) |
 | Hack by IFRI 2026 | 6ᵉ place | [Voir →](https://github.com/precieux2007/REPO-IFRI) |
 | Beyond Memories 2025 | Finaliste | [Voir →](https://github.com/precieux2007/REPO-BEYOND-MEMORIES) |
