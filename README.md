@@ -28,7 +28,7 @@ Portfolio Web, Cloud and ML Engineer
 | **2026** | 🧠 **Nommé officiellement à la Commission des Projets IA** de l'association [Epi'AI](https://www.linkedin.com/company/epiai-benin/) |
 | **Août 2026** | 🇨🇭 **Sélectionné pour le Neoteric Summit Switzerland 2026** à Genève, et mis à l'honneur par le **SCAN 360 d'Epitech Bénin** |
 | **2026** | 🌍 Sélectionné à **Indaba X Bénin 2026** (en ligne) |
-| **2026** | 🚀 **Demi-finaliste** du hackathon **AI4Youth Lomé 2026** (Neuractif) |
+| **2026** | 🚀 **Finaliste** du hackathon **AI4Youth Lomé 2026** (Neuractif) ayant reuni 17 pays d' Afrique et 70 universites|
 | **2026** | 🥉 **3ᵉ place**, Communalthon Cotonou 2026 |
 | **2026** | 🏅 **6ᵉ place**, Hackathon Hack by IFRI |
 | **2025** | 🤖 Membre de **Tekbot (Epitech Bénin)**, équipe **sur le podium du Tekbot Robotics Challenge 2025 (TRC 2025)** |
